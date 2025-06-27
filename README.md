@@ -21,7 +21,7 @@
 
 <hr/>
 
-<h2 align="center">My Skill</h2>
+<h2 align="center" style="color=61dafb;">My Skill</h2>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,lua,c,vscode,figma" alt="skills icons"/>
 </div>
