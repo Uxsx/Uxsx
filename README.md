@@ -1,43 +1,53 @@
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=500&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+There+!;I'm+Siraphop" alt="Typing SVG" /></a>
-</p>
-
-### My Skill
-
-<p align="left">
-  <!-- C++ -->
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" 
-         width="36" height="36" alt="C++" title="C++" />
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=500&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+There+!;I'm+Siraphop" 
+      alt="Typing SVG" 
+    />
   </a>
+</h1>
 
-  <!-- C -->
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" 
-         width="36" height="36" alt="C" title="C" />
-  </a>
+<h3 align="center">Am from Chiang Mai ,Thailand 🇹🇭</h3>
 
-  <!-- Lua -->
-  <a href="https://lua.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/lua-colored.svg" 
-         width="36" height="36" alt="Lua" title="Lua" />
-  </a>
+<br/>
 
-  <!-- HTML5 -->
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" 
-         width="36" height="36" alt="HTML5" title="HTML5" />
-  </a>
+<div align="center">
+ 
+ I’m a Junior Developer
+ 
+ Studying at RMUTL
 
-  <!-- CSS3 -->
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" 
-         width="36" height="36" alt="CSS3" title="CSS3" />
-  </a>
+</div>
 
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" 
-         width="36" height="36" alt="MySQL" title="MySQL" />
-  </a>
-</p>
+<hr/>
+
+<h2 align="center">My Skill</h2>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,lua,c,vscode,figma" alt="skills icons"/>
+</div>
+
+<hr/>
+
+<h2 align="center">Stats</h2>
+<br/>
+
+<div align="center">
+  <img 
+    width="390" 
+    src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Uxsx&count_private=true&theme=react&border_radius=10" 
+    alt="GitHub Streak Stats" 
+  />
+  
+  <img 
+    width="390" 
+    src="https://github-readme-stats-salesp07.vercel.app/api?username=Uxsx&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" 
+    alt="GitHub Readme Stats" 
+  />
+  
+  <img 
+    width="390" 
+    align="center" 
+    src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Uxsx&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" 
+    alt="Top Languages" 
+  />
+</div>
